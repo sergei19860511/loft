@@ -1,0 +1,32 @@
+#description {
+	margin:10px 0 0 120px;
+	}
+
+#menu_bar {
+	margin:0 0 0 -15px;
+	}
+
+ul#navlist li.one a {
+	margin:0 0px 0px 22px;
+	}
+
+ul#navlist li.two a {
+	margin:0 0px 0px 30px;
+	}
+
+ul#navlist li.three a {
+	margin:0 0px 0px 37px;
+	}
+
+ul#navlist li.four a {
+	margin:0 0px 0px 36px;
+	}
+
+#src{
+	padding: 5px 0 0 10px;
+	margin: 0 0 5px 5px;
+	}
+
+#content {
+	overflow: hidden;
+	}
